@@ -29,7 +29,7 @@
 ## 🏆 The Jazz Gambit (Achievements) ☕
 
 > [!IMPORTANT]
-> ### 🇵🇱 Polish Translation Master
+> ### 🇵🇱 Polish Translation
 > Successfully orchestrated the full Polish localization for **[DeepTutor](https://github.com/HKUDS/DeepTutor)**. 
 > *Status: Merged & Harmonized 🎷*
 
