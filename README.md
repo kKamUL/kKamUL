@@ -20,8 +20,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Physics-000000?style=for-the-badge&logo=physics&logoColor=D4AF37&labelColor=002400" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=D4AF37&labelColor=000" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=D4AF37&labelColor=000" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=D4AF37" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000" />
 </p>
 
