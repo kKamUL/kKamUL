@@ -52,7 +52,6 @@
 
 ---
 
-## 🤝 Catch the Vibe (Contact) ☕
 * 📍 **Base:** Poland 🇵🇱
 * ☕ **Coffee Preference:** Strong, black, and focused.
 
