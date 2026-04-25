@@ -2,14 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Icons/master/GIFs/Slot%20Machine.gif" width="100">
 
-# 🎷 kKamUL's Monte Carlo Jazz Lounge ☕
+# 🎷 kKamUL's Lounge ☕
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=High-Stakes+Physics+%26+Code;Smooth+Jazz+%26+Sharp+Logic;Saxophone+Soul;The+Physics+Gambit;Coffee-Fueled+Innovation)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="80%">
-
-### 🕯️ *Where the laws of physics meet the rhythm of jazz.* ☕
-*Current mood: Siping coffee, solving equations, and hitting the right notes.*
 
 <br>
 
@@ -59,16 +56,10 @@
 ---
 
 ## 🤝 Catch the Vibe (Contact) ☕
-
-I'm always up for a talk about **Quantum Mechanics**, **Python optimization**, or the perfect **Saxophone solo**. Let's brew some code!
-
 * 📍 **Base:** Poland 🇵🇱
 * ☕ **Coffee Preference:** Strong, black, and focused.
-* 💬 **Ask me about:** LLMs, Physics, or Jazz music.
-* ⚡ **Fun Fact:** My code has more rhythm than a metronome.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="100%">
   <br>
   <p><i>Stay smooth. Stay sharp. 🎷☕</i></p>
 </div>
