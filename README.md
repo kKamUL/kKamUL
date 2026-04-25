@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=High-Stakes+Physics+%26+Code;Smooth+Jazz+%26+Sharp+Logic;Saxophone+Soul;The+Physics+Gambit;Coffee-Fueled+Innovation)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="80%">
-
 <br>
 
 | 🧪 **Field of Study** | 🎷 **Artistic Soul** | 💰 **The Big Win** |
